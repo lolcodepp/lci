@@ -17,11 +17,13 @@ to be correct, portable, fast, and precisely documented.
 - Precisely documented: lci uses Doxygen to generate literate code
   documentation, browsable here.
 
-This project's homepage is at http://lolcode.org.  For help, visit
+This project's homepage is at http://lolcodepp.github.io.  For help, visit
 http://groups.google.com/group/lci-general.  To report a bug, go to
-http://github.com/justinmeza/lci/issues.
+http://github.com/lolcodepp/lci/issues.
 
-Created and maintained by Justin J. Meza (http://justinmeza.com).
+Originally created and maintained by Justin J. Meza (http://justinmeza.com).
+
+Currently maintained by the LOLCode Preservation Project
 
 ### Prerequisites
 
