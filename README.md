@@ -1,6 +1,6 @@
 # lci
 
-![Build status](https://travis-ci.org/justinmeza/lci.svg?branch=future)
+![Build status](https://travis-ci.org/lolcodepp/lci.svg)
 
 lci is a LOLCODE (http://lolcode.org) interpreter written in C and is designed
 to be correct, portable, fast, and precisely documented.
